@@ -5,6 +5,9 @@
 [submodule "aedl"]
 	path = aedl
 	url = https://github.com/cran/aedl
+[submodule "metaGLMM"]
+	path = metaGLMM
+	url = https://github.com/keisuke-hanada/metaglmm
 [submodule "rmstBayespara"]
 	path = rmstBayespara
 	url = https://github.com/keisuke-hanada/rmstbayespara
